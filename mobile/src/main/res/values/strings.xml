@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Excited!</string>
+    <string name="app_name2">Excited!</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <color name="pink">#ffd5f5ff</color>
+    <string name="text1">Login to Twitter to use Excited!</string>
+    <string name="text2">Your photo has been tweeted! Check your watch for someone else\'s photo.</string>
+</resources>
