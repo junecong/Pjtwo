@@ -32,8 +32,8 @@ import com.twitter.sdk.android.core.identity.TwitterLoginButton;
 public class main extends Activity {
 
     // Note: Your consumer key and secret should be obfuscated in your source code before shipping.
-    private static final String TWITTER_KEY = "LWGmpQElPiaiP2CWDIgRlvHAg";
-    private static final String TWITTER_SECRET = "ZulAr8BVypJAxnHMuIDDjJJWP1rAIh4XW5XGa8qUs9TrBM6v4A";
+    private static final String TWITTER_KEY = "KEY";
+    private static final String TWITTER_SECRET = "SECRET";
     private TwitterLoginButton loginButton;
     private TextView selection;
     GoogleApiClient mGoogleApiClient;
